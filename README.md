@@ -1,4 +1,5 @@
 # ActivityLiveCycle
+![ScreenShot] (https://github.com/xjoliez/ActivityLiveCycle/blob/master/Capture.PNG "")
 ![ScreenShot] (https://github.com/xjoliez/ActivityLiveCycle/blob/master/Screenshot_2016-10-10-21-13-42.png "")
 # Nama 
 Selina Kusmiawati
